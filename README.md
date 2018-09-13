@@ -1,6 +1,10 @@
 # test-vue
 
-> A test of vue for Codium
+> A test of VueJS 2 for Codium.
+
+##Requirements
+
+NodeJS: https://nodejs.org/es/download/
 
 ## Build Setup
 
