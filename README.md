@@ -2,7 +2,7 @@
 
 > A test of VueJS 2 for Codium.
 
-##Requirements
+## Requirements
 
 NodeJS: https://nodejs.org/es/download/
 
